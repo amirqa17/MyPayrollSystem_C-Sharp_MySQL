@@ -1,0 +1,45 @@
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\bin\Debug\MyPayrollSystem.exe.config
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\bin\Debug\MyPayrollSystem.exe
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\bin\Debug\MyPayrollSystem.pdb
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\bin\Debug\MySql.Data.dll
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\bin\Debug\Google.Protobuf.dll
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\bin\Debug\MySql.Data.xml
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.csprojAssemblyReference.cache
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.Form1.resources
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.Properties.Resources.resources
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.csproj.GenerateResource.cache
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.csproj.CoreCompileInputs.cache
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.csproj.CopyComplete
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.exe
+c:\users\тимур\source\repos\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.pdb
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\bin\Debug\MyPayrollSystem.exe.config
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\bin\Debug\MyPayrollSystem.exe
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\bin\Debug\MyPayrollSystem.pdb
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\bin\Debug\MySql.Data.dll
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\bin\Debug\Google.Protobuf.dll
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\bin\Debug\MySql.Data.xml
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.csprojAssemblyReference.cache
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.Form1.resources
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.Properties.Resources.resources
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.csproj.GenerateResource.cache
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.csproj.CoreCompileInputs.cache
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.csproj.CopyComplete
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.exe
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.pdb
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.login.resources
+H:\Payroll l6\15031006\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.empform.resources
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\bin\Debug\MyPayrollSystem.exe.config
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\bin\Debug\MyPayrollSystem.exe
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\bin\Debug\MyPayrollSystem.pdb
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\bin\Debug\MySql.Data.xml
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.csprojResolveAssemblyReference.cache
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.empform.resources
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.Form1.resources
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.login.resources
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.Properties.Resources.resources
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.csproj.GenerateResource.cache
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.csproj.CopyComplete
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.exe
+C:\Users\shado\Desktop\MyPayrollSystem\MyPayrollSystem\obj\Debug\MyPayrollSystem.pdb
