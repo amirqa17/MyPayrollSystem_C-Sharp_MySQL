@@ -1,5 +1,5 @@
 # 💼 Payroll Management System (C# & MySQL) 💵
-Welcome to the Payroll Management System repository! This project was developed to manage employee payroll, including features for calculating salaries, tax deductions, and generating pay slips. It uses C# for the backend logic and MySQL as the database for storing employee data and payroll records.
+Welcome to the Payroll Management System repository! This project was developed during my university times to manage employee payroll, including features for calculating salaries, tax deductions, and generating pay slips. It uses C# for the backend logic and MySQL as the database for storing employee data and payroll records.
 
 🚀 Features
 Employee Management: Add, edit, and delete employee records.
